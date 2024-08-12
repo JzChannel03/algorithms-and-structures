@@ -208,3 +208,4 @@ C:\Users\jzcha\Desktop\Personal-Dev\algorithms-and-structures\TestingCode\obj\De
 C:\Users\jzcha\Desktop\Personal-Dev\algorithms-and-structures\TestingCode\obj\Debug\net8.0\TestingCode.pdb
 C:\Users\jzcha\Desktop\Personal-Dev\algorithms-and-structures\TestingCode\obj\Debug\net8.0\TestingCode.genruntimeconfig.cache
 C:\Users\jzcha\Desktop\Personal-Dev\algorithms-and-structures\TestingCode\obj\Debug\net8.0\ref\TestingCode.dll
+C:\Users\jzcha\Desktop\Personal-Dev\algorithms-and-structures\TestingCode\obj\Debug\net8.0\TestingCode.sourcelink.json
