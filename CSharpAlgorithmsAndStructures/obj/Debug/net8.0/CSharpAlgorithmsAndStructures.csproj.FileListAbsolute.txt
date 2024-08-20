@@ -26,3 +26,4 @@ C:\Users\jzcha\Desktop\Personal-Dev\algorithms-and-structures\CSharpAlgorithmsAn
 C:\Users\jzcha\Desktop\Personal-Dev\algorithms-and-structures\CSharpAlgorithmsAndStructures\obj\Debug\net8.0\CSharpAlgorithmsAndStructures.pdb
 C:\Users\jzcha\Desktop\Personal-Dev\algorithms-and-structures\CSharpAlgorithmsAndStructures\obj\Debug\net8.0\CSharpAlgorithmsAndStructures.genruntimeconfig.cache
 C:\Users\jzcha\Desktop\Personal-Dev\algorithms-and-structures\CSharpAlgorithmsAndStructures\obj\Debug\net8.0\ref\CSharpAlgorithmsAndStructures.dll
+C:\Users\jzcha\Desktop\Personal-Dev\algorithms-and-structures\CSharpAlgorithmsAndStructures\obj\Debug\net8.0\CSharpAlgorithmsAndStructures.sourcelink.json

@@ -14,7 +14,7 @@ namespace Structures
 
     }
 
-    public class List<T>
+    public class MyList<T>
     {
         public Element<T> first = null;
 

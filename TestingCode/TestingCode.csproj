@@ -21,10 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Structures\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\CSharpAlgorithmsAndStructures\CSharpAlgorithmsAndStructures.csproj" />
   </ItemGroup>
 

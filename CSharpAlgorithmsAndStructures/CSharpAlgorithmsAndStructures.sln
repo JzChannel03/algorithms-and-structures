@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAlgorithmsAndStructures", "CSharpAlgorithmsAndStructures.csproj", "{1E650B8B-F8CD-4754-9F7C-ABAB2A76787D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpAlgorithmsAndStructures", "CSharpAlgorithmsAndStructures.csproj", "{1E650B8B-F8CD-4754-9F7C-ABAB2A76787D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingCode", "..\TestingCode\TestingCode.csproj", "{22879FA3-7FD6-4ACB-8A7B-5D12607DE8CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestingCode", "..\TestingCode\TestingCode.csproj", "{22879FA3-7FD6-4ACB-8A7B-5D12607DE8CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
